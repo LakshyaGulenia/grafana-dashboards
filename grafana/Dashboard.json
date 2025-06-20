@@ -112,7 +112,7 @@
           "refId": "A"
         }
       ],
-      "title": "New Panel",
+      "title": "Grafana",
       "type": "timeseries"
     }
   ],
@@ -130,5 +130,5 @@
   "timezone": "browser",
   "title": "mydashboard",
   "uid": "sdfrrsfsfessrg",
-  "version": 1
+  "version": 2
 }
